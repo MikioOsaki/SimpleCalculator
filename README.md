@@ -1,3 +1,3 @@
 # SimpleCalculator
 
-An simple Calculator Android exercise.
+A simple calculator Android exercise.
